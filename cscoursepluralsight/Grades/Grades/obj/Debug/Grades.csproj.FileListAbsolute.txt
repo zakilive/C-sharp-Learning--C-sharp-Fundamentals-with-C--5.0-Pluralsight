@@ -1,0 +1,7 @@
+C:\Users\Test\Desktop\cscoursepluralsight\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\Test\Desktop\cscoursepluralsight\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\Test\Desktop\cscoursepluralsight\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\Test\Desktop\cscoursepluralsight\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\Test\Desktop\cscoursepluralsight\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\cscoursepluralsight\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\Test\Desktop\cscoursepluralsight\Grades\Grades\obj\Debug\Grades.pdb

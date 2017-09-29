@@ -1,0 +1,7 @@
+C:\Users\Test\Desktop\cscoursepluralsight\Hello\Hello\bin\Debug\Hello.exe.config
+C:\Users\Test\Desktop\cscoursepluralsight\Hello\Hello\bin\Debug\Hello.exe
+C:\Users\Test\Desktop\cscoursepluralsight\Hello\Hello\bin\Debug\Hello.pdb
+C:\Users\Test\Desktop\cscoursepluralsight\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+C:\Users\Test\Desktop\cscoursepluralsight\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\cscoursepluralsight\Hello\Hello\obj\Debug\Hello.exe
+C:\Users\Test\Desktop\cscoursepluralsight\Hello\Hello\obj\Debug\Hello.pdb
